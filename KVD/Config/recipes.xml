@@ -1,0 +1,1671 @@
+<configs>
+
+<append xpath="recipes">
+
+<recipe name="commercialGlassDoor" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceBrokenGlass" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialBulletproofGlassDoor" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="12"/>
+	<ingredient name="resourceBrokenGlass" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialGlassDoorDouble" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceBrokenGlass" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+      </recipe>
+
+<recipe name="commercialBulletproofGlassDoorDouble" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="18"/>
+	<ingredient name="resourceBrokenGlass" count="25"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+      </recipe>
+
+<recipe name="commercialSlidingDoor" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceBrokenGlass" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+      </recipe>
+
+<recipe name="commercialBulletproofSlidingDoor" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="18"/>
+	<ingredient name="resourceBrokenGlass" count="25"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+      </recipe>
+
+
+<recipe name="commercialDoorV1White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV1Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV1Red" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV1Orange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV1Yellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+<recipe name="commercialDoorV1Green" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV1Blue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV1Purple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV1Grey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV1Pink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV1Oak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorDoubleV1White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+      </recipe>
+
+<recipe name="commercialDoorDoubleV1Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+      </recipe>
+
+<recipe name="commercialDoorDoubleV1Red" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+      </recipe>
+
+<recipe name="commercialDoorDoubleV1Orange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV1Yellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV1Green" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV1Blue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV1Purple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV1Grey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV1Pink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV1Oak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorV2White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV2Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV2Red" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV2Orange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV2Yellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV2Green" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV2Blue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV2Purple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV2Grey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV2Pink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV2Oak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorDoubleV2White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV2Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV2Red" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV2Orange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV2Yellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV2Green" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV2Blue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV2Purple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV2Grey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV2Pink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV2Oak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorV3White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV3Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV3Red" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV3Orange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV3Yellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV3Green" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV3Blue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV3Purple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV3Grey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV3Pink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV3Oak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorDoubleV3White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV3Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV3Red" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV3Orange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV3Yellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV3Green" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV3Blue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV3Purple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV3Grey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV3Pink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV3Oak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorV4White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV4Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV4Red" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV4Orange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV4Yellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV4Green" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV4Blue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV4Purple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV4Grey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV4Pink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorV4Oak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+      </recipe>
+
+<recipe name="commercialDoorDoubleV4White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV4Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV4Red" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV4Orange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV4Yellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV4Green" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceBrokenGlass" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV4Blue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceBrokenGlass" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV4Purple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV4Grey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV4Pink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceBrokenGlass" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="commercialDoorDoubleV4Oak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="elevatorDoor" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="10"/>
+	<ingredient name="resourceElectricParts" count="10"/>
+	</recipe>
+
+<recipe name="elevatorDoorDouble" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	<ingredient name="resourceElectricParts" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorPurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorPink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoublePurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoublePink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSingleWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSingleBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSingleRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSingleOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSingleYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSingleGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSingleBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSinglePurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSingleGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSinglePink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightSingleOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightPurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightPink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorSideLightOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldPurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldPink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorOldOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldPurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldPink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorHouseDoorDoubleOldOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="exteriorScreenDoor" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="houseSlidingDoorWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="houseSlidingDoorBlack" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorPurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorPink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="frenchDoorDoubleWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorDoubleBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorDoubleRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorDoubleOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorDoubleYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorDoubleGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorDoubleBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorDoublePurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorDoubleGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorDoublePink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="frenchDoorDoubleOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorPurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorPink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoubleWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoubleBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoubleRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoubleOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoubleYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoubleGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoubleBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoublePurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoubleGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoublePink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorHouseDoorDoubleOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldPurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldPink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoubleWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoubleBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoubleRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoubleOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoubleYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoubleGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoubleBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoublePurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoubleGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoublePink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="interiorDoorOldDoubleOak" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="tallCabinetDoorWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="tallCabinetDoorBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="tallCabinetDoorRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="tallCabinetDoorOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="tallCabinetDoorYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="tallCabinetDoorGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="tallCabinetDoorBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="tallCabinetDoorPurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="tallCabinetDoorGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="tallCabinetDoorPink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+
+<recipe name="closetDoorWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="closetDoorBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="closetDoorRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="closetDoorOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="closetDoorYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="closetDoorGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="closetDoorBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="closetDoorPurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="closetDoorGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="closetDoorPink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+
+<recipe name="closetDoorDoubleWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="closetDoorDoubleBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="closetDoorDoubleRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="closetDoorDoubleOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="closetDoorDoubleYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="closetDoorDoubleGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="closetDoorDoubleBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+
+<recipe name="closetDoorDoublePurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="closetDoorDoubleGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="closetDoorDoublePink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+
+<recipe name="pantryDoorWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="pantryDoorBrown" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="pantryDoorRed" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="pantryDoorOrange" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="pantryDoorYellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="pantryDoorGreen" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="pantryDoorBlue" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="pantryDoorPurple" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="pantryDoorGrey" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="pantryDoorPink" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+<recipe name="rollUpGate3x3White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="12"/>
+	<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+<recipe name="rollUpGate4x3White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="22"/>
+	<ingredient name="resourceMechanicalParts" count="14"/>
+	<ingredient name="resourceSpring" count="18"/>
+	</recipe>
+
+<recipe name="rollUpGate4x3DiagonalWhite" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="22"/>
+	<ingredient name="resourceMechanicalParts" count="14"/>
+	<ingredient name="resourceSpring" count="18"/>
+	</recipe>
+
+<recipe name="rollUpGate5x3White" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="25"/>
+	<ingredient name="resourceMechanicalParts" count="18"/>
+	<ingredient name="resourceSpring" count="20"/>
+	</recipe>
+
+</append>
+</configs>

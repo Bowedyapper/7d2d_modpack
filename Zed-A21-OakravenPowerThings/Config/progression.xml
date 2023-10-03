@@ -1,0 +1,8 @@
+<configs>
+	<!-- Power and Solar Cell -->	
+	<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingElectrician']/display_entry[@icon='carBattery']/unlock_entry/@item">,PowerCell,solarCell</append>
+	<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingElectrician']/effect_group">
+		<passive_effect name="RecipeTagUnlocked" operation="base_set" level="65,100" value="1" tags=",PowerCell,solarCell"/>
+		<passive_effect name="CraftingTier" operation="base_add" level="70,75,80,90,100" value="1,2,3,4,5" tags="PowerCell,solarCell"/>
+	</append>
+</configs>

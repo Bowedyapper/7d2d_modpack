@@ -1,0 +1,3 @@
+Key,english,spanish
+
+RepairWithName,"Repair with","Se repara con"

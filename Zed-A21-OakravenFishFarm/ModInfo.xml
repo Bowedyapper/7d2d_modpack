@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="Zed-A21-OakravenFishFarm" />
+	<DisplayName value="A21 Fish Farm" />
+	<Description value="Adds fish farm workstations, fish, and recipes." />
+	<Author value="oakraven, with support from arramus" />
+	<Version value="21.2.1.0" />
+	<Website value="" />
+</xml>

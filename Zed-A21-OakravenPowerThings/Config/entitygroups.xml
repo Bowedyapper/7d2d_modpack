@@ -1,0 +1,10 @@
+<configs>
+
+<append xpath="/entitygroups">
+	<entitygroup name="CrystalRocks">
+		<entity name="animalRockSpawn" prob="0.4"/>
+		<entity name="animalBlueSpawn" prob="0.4"/>
+	</entitygroup>
+</append>
+
+</configs>

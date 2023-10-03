@@ -1,0 +1,53 @@
+<configs>
+
+
+<append xpath="/items">
+
+<!-- schematics -->
+	<!-- <item name="SonicShoesSchematic">
+		<property name="Extends" value="schematicNoQualityMaster"/>
+		<property name="CreativeMode" value="Player"/>
+		<property name="CustomIcon" value="apparelRunningShoesRegular"/>
+		<property name="CustomIconTint" value="95,10,25"/>
+		<property name="Unlocks" value="SonicShoes"/>
+		<effect_group tiered="false">
+			<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="SonicShoes" operation="set" value="1"/>
+			<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+		</effect_group>
+	</item>	
+ -->
+
+<!-- items -->
+<!-- 
+	<item name="RunningShoesVS">
+		<property name="Extends" value="armorLeatherBoots"/>
+		<property name="DescriptionKey" value="RunningShoesVSDesc"/>
+		<property name="CustomIcon" value="apparelRunningShoesRegular"/>
+		<property name="CustomIconTint" value="80,89,221"/>
+		<property name="Tags" value="lowerbody,feet,clothing,canHaveCosmetic,noMods"/>
+		<property name="DisplayType" value="clothingRunningShoes"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="Weight" value="25"/>
+		<property name="Encumbrance" value=".02"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="ShowQuality" value="false"/>
+		<property class="UMA">
+			<property name="Mesh" value="running_shoes"/>
+			<property name="Overlay0" value="running_shoes"/>
+			<property name="Overlay0Tint" value="80,89,221"/>
+		</property>
+		<property name="EconomicValue" value="1900"/>
+		<effect_group tiered="false">
+			<passive_effect name="HypothermalResist" operation="base_add" value="1.8,4.2"/>
+			<passive_effect name="HyperthermalResist" operation="base_add" value="1.5,2.5"/>
+			<passive_effect name="StaminaChangeOT" operation="perc_add" value=".4" tags="running"/><display_value name="dStaminaRegen" value=".4"/>
+			<passive_effect name="ModSlots" operation="base_set" value="3"/>
+			<passive_effect name="RunSpeed" operation="perc_add" value=".5"/><display_value name="dRunSpeed" value=".5"/>
+		</effect_group>
+	</item> -->
+
+</append>
+
+
+
+</configs>

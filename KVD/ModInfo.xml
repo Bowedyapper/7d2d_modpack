@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="Keule's vanilla Doors" /> 
+    <DisplayName value="Keule's vanilla Doors" />
+    <Version value="21.0.1.100" compat="A21"/>
+    <Description value="Makes all vanilla doors craftable" /> <!-- (Optional) More text to show on UIs -->
+    <Author value="KeuleAufKopf" />
+    <Website value="https://community.7daystodie.com"/> 
+</xml>
